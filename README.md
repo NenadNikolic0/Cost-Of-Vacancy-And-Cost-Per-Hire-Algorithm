@@ -1,2 +1,2 @@
 # Cost-of-vacancy-and-cost-per-hire-algorithm
-Cost of vacancy and cost per hire algorithm (Wordpress plugin)
+German company hired me to make algorithm that will calculate costs when someone wants to move and work abroad. 
