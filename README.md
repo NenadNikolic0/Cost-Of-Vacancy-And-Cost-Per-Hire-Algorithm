@@ -1,2 +1,5 @@
 # Cost-of-vacancy-and-cost-per-hire-algorithm
-German company hired me to make algorithm that will calculate costs when someone wants to move and work abroad. 
+
+Project description: This project was realized as Wordpress plugin (customer wanted) and contains algorithm for calculating costs of vacancy and costs per hire for companies that want to hire foreigner. 
+
+Technologies used in project: PHP, WP plugin development
