@@ -1,0 +1,66 @@
+#main-tab {
+width:100%;
+height:auto;
+}
+
+
+
+.success {
+color:#00ff00;
+}
+
+
+table {
+width:100%;
+border:0px!important;
+}
+
+table tbody {
+width:100%;
+border:0px!important;
+}
+
+table tbody tr {
+border:0px!important;
+
+}
+
+
+.empty-div {
+width:100%;
+height:30px;
+}
+
+input[type="email"] {
+    border:1px solid #bababa!important;
+}
+
+
+@media screen and (max-width: 468px){
+input[type="number"] {
+    width:90%!important;
+}
+
+}
+
+.dotted {
+border-bottom:1px solid #000!important;
+}
+
+.title {
+font-size:20px!important;
+color:#7db61c!important;
+}
+
+.subtitle {
+font-size:16px!important;
+color:#7db61c!important;
+}
+
+.iframe-window {
+width:100%;
+height:500px;
+overflow:none;
+border:0px;
+display:none;
+}
